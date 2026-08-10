@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: luchshie-kazino-na-realnye-dengi.github.io
+Sitemap: https://luchshie-kazino-na-realnye-dengi.github.io/sitemap.xml
